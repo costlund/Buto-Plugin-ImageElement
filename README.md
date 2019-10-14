@@ -1,6 +1,6 @@
 # Buto-Plugin-ImageElement
 
-##Widget to render image.
+## Widget to render image.
 
 Render image element if image exist.
 
