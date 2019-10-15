@@ -2,7 +2,7 @@
 
 ## Widget to render image.
 
-Render image element if image exist.
+Render image element if image exist. A time parameter is added to handle browser caching.
 
 ```
 type: widget
