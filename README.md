@@ -12,4 +12,5 @@ data:
   data:
     path: /theme/_folder_/_folder_/my_image.png
     style: 'width:40px'
+    class: 'image-thumbnail'
 ```
