@@ -6,16 +6,16 @@ history:
     description: 'Add class param.'
   '1.1':
     date: '2019-10-15'
-    title: Time param
+    title: 'Time param'
     description: 'Add time param to prevent browser caching if image file is updated.'
   '1.0':
     date: '2019-10-14'
-    title: First version
+    title: 'First version'
     description: 'Manifest created.'
 plugin:
   -
     name: wf/array
-    version: 1.0.1
+    version: 1.2.0
 sys:
   -
     name: mercury
