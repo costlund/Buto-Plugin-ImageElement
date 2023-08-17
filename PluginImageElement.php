@@ -10,7 +10,7 @@ class PluginImageElement{
        * Time
        */
       $time = wfFilesystem::getFiletime($filename);
-      if(strstr($data->get('path'), '?')){
+      if(wfPhpfunc::strstr($data->get('path'), '?')){
         $data->set('path', $data->get('path').'&_t='.$time);
       }else{
         $data->set('path', $data->get('path').'?_t='.$time);
